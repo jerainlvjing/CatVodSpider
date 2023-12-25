@@ -14,7 +14,7 @@
     {
             "name": "點擊",
             "hosts": [
-             "https://tv.cctv.com/lm/jrsf/videoset/?spm=C52056131267.PkHCdznQvTLi.0.0"
+             "https://yeslivetv.com/channels/ftvone/"
              ],
             "script": [
             "document.getElementsByClassName(\"vjs-big-play-button\")[0].click()"

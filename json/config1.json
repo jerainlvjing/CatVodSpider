@@ -14,7 +14,7 @@
     {
             "name": "點擊",
             "hosts": [
-             "yeslivetv.com"
+             "https://tv.cctv.com/lm/jrsf/videoset/?spm=C52056131267.PkHCdznQvTLi.0.0"
              ],
             "script": [
             "document.getElementsByClassName(\"vjs-big-play-button\")[0].click()"
